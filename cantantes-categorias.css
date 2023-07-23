@@ -1,0 +1,248 @@
+
+body{
+    background-color:black;
+    font-size: 150px;
+
+
+}
+ menu {
+    background-color: aqua;
+
+}
+
+    
+
+p {
+    margin: 1em;
+}
+
+.cols {
+    height: 630px;
+    
+    
+    
+}
+    .col1 {
+        background-color:#201F1E;
+        width: 100%;
+        border: 1px solid #2EDFBF
+        
+
+    }
+    .col2 {
+        background-color: #201F1E;
+        width: 100%;
+        border: 1px solid #2EDFBF
+    }
+    .col1{
+        display: inline-block;
+        height: 29%;
+    }
+
+    .col2 {
+        display: inline-block;
+        height:400%;
+    }
+    .imagenes-cantantes{
+        
+        width: 300px;
+        margin: 2px;
+        margin-top: 5px;
+        height: 130px;
+        border-radius: 10px;
+        padding: 20px;
+        
+        
+        
+    }
+    .Nombre{
+        float: right;
+        z-index: 100;
+        position: absolute;
+        color:#2EDFBF;
+        font-size: 100px;
+        font-weight: 20px;
+        left: 130px;
+        top: -30px;
+        width: 700px;
+      }
+      .Nombre-cancion{
+        float: right;
+        z-index: 100;
+        position: absolute;
+        color:#2EDFBF;
+        font-size: 100px;
+        font-weight: 20px;
+        left: 130px;
+        top: -30px;
+        width: 200px;
+
+        
+      }
+
+    .Nombre-de-cancion {
+        float: right;
+        z-index: 100;
+        position:relative;
+        color:aliceblue;
+        font-size: 30px;
+        font-weight: bold;
+        left: 220px;
+        top: 350px;
+
+    }
+    .Nombre-de-cancion2 {
+        float: right;
+        z-index: 100;
+        position:relative;
+        color:aliceblue;
+        font-size: 45px;
+        font-weight: bold;
+        left: 180px;
+        top: 350px;
+
+    }
+    .imagenes-cancion{
+        width: 300px;
+        margin: -10px;
+        margin-top: 100px;
+        height: 130px;
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .cancion{
+        float: right;
+        z-index: 100;
+        position:relative;
+        color:#2EDFBF;
+        font-size: 50px;
+        font-weight: bold;
+        left: -100px;
+        top: -20px;
+
+     
+
+
+    }
+
+    .audio{
+        float: right;
+        z-index: 100;
+        position:relative;
+        color: white;
+        font-size: 50px;
+        font-weight: bold;
+        left: -500px;
+        top: -150px;
+
+    }
+
+    .Album{
+        float: right;
+        z-index: 100;
+        position:relative;
+        color:aliceblue;
+        font-size: 50px;
+        font-weight: bold;
+        left: auto;
+        top: -370px;
+
+
+    }
+    .cancion2{
+        top: -500;
+    }
+.imagenes-cancion2{
+    position: absolute;
+    z-index: 100;
+    width: 300px;
+    margin: -10px;
+    margin-top: -100px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 20px;
+    top: 600px;
+
+}
+.Nombre2{
+    float: right;
+    z-index: 100;
+    position: absolute;
+    color:#2EDFBF;
+    font-size: 100px;
+    font-weight: 20px;
+    left: 130px;
+    top: 150px;
+
+}
+ .audio2{
+    float: right;
+    z-index: 100;
+    position:relative;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    left: -20px;
+    top: -150px;
+
+
+ }
+ .imagenes-cancion3{
+    position: absolute;
+    z-index: 100;
+    width: 300px;
+    margin: -10px;
+    margin-top: -100px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 20px;
+    top: 800px;
+ }
+
+ .Nombre-cancion3{
+    float: right;
+    z-index: 100;
+    position: absolute;
+    color:#2EDFBF;
+    font-size: 100px;
+    font-weight: 20px;
+    left: 130px;
+    top: 350px;
+    width: 200px;
+
+    
+  }
+  .Nombre-de-cancion3 {
+    float: right;
+    z-index: 100;
+    position:relative;
+    color:aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+    left: 220px;
+    top: 350px;
+
+}
+.audio3{
+    float: right;
+    z-index: 100;
+    position:relative;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    left: -230px;
+    top: -120px;
+    }
+.boton-inicio{
+    position: center;
+    background-color:#201F1E;
+    font-size: 30px;
+    color: #2EDFBF;
+    width: 70px;
+    height: 50px;
+    margin-left: 1000px;
+    margin-top: 100px;
+    border: 1px solid #2EDFBF
+
+}
