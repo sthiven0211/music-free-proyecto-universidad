@@ -1,0 +1,30 @@
+.titulo{
+    color: aqua;
+}
+body{
+    background-color:black;
+    font-size: 15px;
+}
+.label-password{
+    color: aqua;
+}
+.label-email{
+    color: aqua;
+}
+.texto-registrate{
+    color: aqua;
+}
+.boton{ 
+    background-color: aqua;
+    font-size: 20px;
+}
+.contenedor{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 250px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color:dimgray;
+    box-shadow: 0px 0px 5px;
+}
